@@ -1,8 +1,8 @@
 # 📊 About Baran Algül
 
-#Hallo hier ist Baran ich bin 18 Jahre alt und besuche gerade die GSO Schule in Köln zurzeit mache ich Fachabitur 
-#Ich Arbeite Hart an mir und an meinen Fähigkeiten um den freien platzt an wissen zu füllen und neue Dinge zu lernen
-#Zudem bin ich zielstrebig und gebe nicht auf meine Statistiken sehen sie Unten
+Hallo hier ist Baran ich bin 18 Jahre alt und besuche gerade die GSO Schule in Köln zurzeit mache ich Fachabitur 
+Ich Arbeite Hart an mir und an meinen Fähigkeiten um den freien platzt an wissen zu füllen und neue Dinge zu lernen
+Zudem bin ich zielstrebig und gebe nicht auf meine Statistiken sehen sie Unten
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baran_alg05) 
