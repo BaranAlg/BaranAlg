@@ -1,3 +1,7 @@
+# 📊 About Baran Algül
+
+Hello, my name is Baran. I'm 18 years old and currently attending GSO School in Cologne. I'm working hard on myself and my skills to acquire knowledge and learn new things. Additionally, I am determined and never give up. My statistics can be seen below.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baran_alg05) 
