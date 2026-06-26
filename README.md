@@ -13,6 +13,8 @@ Hello, my name is Baran. I'm 20 years old I'm working hard on myself and my skil
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BaranAlg&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![BaranAlg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaranAlg&theme=highcontrast&hide_border=true)
+![BaranAlg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaranAlg&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BaranAlg&limit=5&theme=dracula&combine_all_yearly_contributions=true)
